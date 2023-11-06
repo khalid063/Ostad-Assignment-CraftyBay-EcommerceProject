@@ -164,7 +164,7 @@ Follow these steps to run the CraftyBay Application:
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/mohammadrezaulalam/craftybay.git
+git clone https://github.com/khalid063/Ostad-Assignment-CraftyBay-EcommerceProject
 
 2. Navigate to the project folder:
 
@@ -178,7 +178,7 @@ flutter pub get
 |  		      **Installable APK**		         |
 
 
-[Click Here to download APK](https://dropbox.com/)
+[Click Here to download APK](https://drive.google.com/file/d/1WpPgGKbJMNygw7-zFLOytFyktGOcOrAx/view?usp=sharing)
 
 
 
@@ -211,10 +211,7 @@ By incorporating these dependencies into the ecommerce app, CraftyBay provides u
 
 
 
-|  		           **Liecense**	             |
 
-This project is licensed under the MIT License. See
-the [LICENSE](https://opensource.org/license/mit/) file for details.
 
 
 
@@ -222,61 +219,6 @@ the [LICENSE](https://opensource.org/license/mit/) file for details.
 
 |  		        **Screenshots**	        	   |
 
-![all-min](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/6ed58ed4-f6aa-4b5c-b1d5-c5cd08722029)
 
-
-![Screenshot_20231105_184129](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/7fb3cc49-2e01-4ced-b3b5-95e6989b5fff)
-
-
-![Screenshot_20231105_185559](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/061e05e8-eb11-4cbd-9643-5b2e7cd60e87)
-
-
-
-![Screenshot_20231105_183205](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/69b58d2f-2bff-4b4a-b009-93cd30226420)
-
-
-
-![Screenshot_20231105_193454](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/c88139b4-b7bf-407d-9d91-e7c3acc69a54)
-
-
-![Screenshot_20231105_193643](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/c6df8f88-6db4-4f3c-b9fe-5a0fe00f8797)
-
-
-
-![Screenshot_20231105_193213](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/e235f12b-1425-454f-acf7-614839e71fe1)
-
-
-![Screenshot_20231105_193230](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/49e53417-305b-4c5f-b57a-c88f98e7f5f5)
-
-
-
-![Screenshot_20231105_193244](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/da1357d0-bdfc-4487-8be1-fb0d2b8faf31)
-
-
-![Screenshot_20231105_183537](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/8dbf4810-bd86-4f8e-8dba-48446d998b28)
-
-
-![Screenshot_20231105_193937](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/02c2f4cd-3fb9-4f31-991d-dd85155b962a)
-
-
-![Screenshot_20231105_194019](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/7266e6e0-8633-4854-a690-4b6e39c8a1b7)
-
-
-
-![Screenshot_20231105_194056](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/aa16a42f-4d7e-467b-83e4-1a5179862174)
-
-
-
-![Screenshot_20231105_194139](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/8fbf564c-4592-45ac-a9f0-af77811b2b51)
-
-
-![Screenshot_20231105_183434](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/d729f4db-8f63-4284-9a6a-fd7e64c97cf0)
-
-
-![Screenshot_20231105_183552](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/5081cbf2-87e3-4da0-b8df-37ab30fa6882)
-
-
-![Screenshot_20231105_183620](https://github.com/mohammadrezaulalam/craftybay/assets/128355921/7b3a4c88-e02a-4fab-85fe-9c3e52868435)
-
-
+![all Design Png Image 2](https://github.com/khalid063/Ostad-Assignment-CraftyBay-EcommerceProject/assets/51012988/e9b93ea8-f87a-469d-9ac8-ec9e19e2b914)
 
